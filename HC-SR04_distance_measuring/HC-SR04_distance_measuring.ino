@@ -2,7 +2,7 @@
 
 
 const int trigPin = 2;
-const int echoPin = 3;
+const int echoPin = 6;
 long duration ;
 int distanceCm;
 
