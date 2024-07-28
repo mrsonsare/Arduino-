@@ -1,4 +1,4 @@
-const int input = 3;
+const int input = 4;
 const int led = 13;
 
 
