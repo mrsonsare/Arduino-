@@ -1,7 +1,7 @@
 
 
 
-const int trigPin = 2;
+const int trigPin = 1;
 const int echoPin = 3;
 long duration ;
 int distanceCm;
