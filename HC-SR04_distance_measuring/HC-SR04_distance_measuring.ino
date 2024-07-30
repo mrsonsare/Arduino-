@@ -1,8 +1,5 @@
-
-
-
-const int trigPin = 2;
-const int echoPin = 3;
+const int trigPin = 9;
+const int echoPin = 10;
 long duration ;
 int distanceCm;
 
